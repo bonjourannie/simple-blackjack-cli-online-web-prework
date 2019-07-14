@@ -60,7 +60,7 @@ end
 
 def runner
   # code runner here
-
+  Welcome
 
 end
 end_game(card_total)
